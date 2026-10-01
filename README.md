@@ -7,34 +7,26 @@
 
 ---
 
-### 👨‍‍💻 About Me
+### 👨‍💻 About Me
 
 I am a **3rd-year Systems Engineering student at UTN FRC**, focused on the convergence of software development, cloud infrastructure, and cybersecurity.
 
 * 🚀 I began my journey in development to understand how applications are built from the ground up.
-* 💻 I've translated that foundation into real-world projects, co-creating everything from **wellness-focused SaaS platforms** and **business management dashboards** to the modeling of **on-demand logistics platforms**.
-* 🤖 Currently expanding my tech stack by integrating **Large Language Models (LLMs)** and developing **AI Agents** to enhance, automate, and scale software solutions.
-* ✍️ I actively bridge academia and industry—recently submitting a research paper on AI and Software Engineering for the CoNaIISI congress, and staying updated at events like the Global AI Conference and AWS Community Day.
-* ⚡ **Fun fact:** When I'm not coding or visualizing technical architectures with Mermaid, you'll probably find me assembling PC hardware, building LEGO sets, or planning my next trip.
+* 💻 I translated that foundation into real-world projects, co-creating everything from **wellness-focused SaaS platforms** and **business management dashboards** to the modeling of **on-demand logistics platforms**.
+* 🤖 Currently, I am expanding my tech stack by integrating **Large Language Models (LLMs)** and developing **AI Agents** to enhance, automate, and scale these software solutions.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Development & Cloud**
 <p>
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-**AI, Workflows & Security**
-<p>
   <img src="https://img.shields.io/badge/Claude-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white" />
 </p>
 
 ---
